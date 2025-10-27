@@ -243,3 +243,16 @@ footer {
     background-color: var(--surface-color);
     border-top: 1px solid #333;
 }
+
+.project {
+    background-color: var(--surface-color);
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+    border: 1px solid #333;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.project h3 {
+    margin-top: 0;
+}
